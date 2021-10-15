@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634270892 source:c:\users\neto\documents\coding\codeblocks\projetinhos\fila encadeada - nivaldo neto\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits>
+	<ios>
+
